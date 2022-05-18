@@ -8,7 +8,7 @@ To start playing, go to the PolyConquest extension located in the left navigatio
 
 Then, choose the game you want to play among the proposed games, and click on Clone. You will be redirected to your first game directory.
 
-You will be redirected to your first game directory. You will have to repeat this action each time you want to play a new game.
+You will have to repeat this action each time you want to play a new game.
 
 ### You have already played
 
