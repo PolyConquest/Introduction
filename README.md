@@ -1,38 +1,31 @@
 # ![](https://www.polytech.umontpellier.fr/images/logo_entete.png) PolyConquest
 
-## Commencer à jouer
+## Start playing
 
-### Vous n'avez encore jamais joué
+### You have never played before
 
-Pour commencer à jouer, aller dans l'extension PolyConquest située dans la barre de navigation à gauche.
+To start playing, go to the PolyConquest extension located in the left navigation bar.
 
-Puis, choisisez le jeu auquel vous souhaitez jouer parmi les jeux proposés, et cliquez sur Cloner. Vous serez redirigé vers votre premier répertoire de jeu.
+Then, choose the game you want to play among the proposed games, and click on Clone. You will be redirected to your first game directory.
 
-Cette action sera à reproduire à chaque fois que vous souhaitez jouer à un nouveau jeu.
+You will be redirected to your first game directory. You will have to repeat this action each time you want to play a new game.
 
-### Vous avez déjà joué
+### You have already played
 
-Rendez-vous sur l'extension PolyConquest, dans l'onglet répertoires, vous retrouverez tous les jeux auxquels vous avez déjà joué.
+Go to the PolyConquest extension, in the folders tab, you will find all the games you have already played.
 
-Il ne vous reste qu'a choisir le jeu que vous voulez démarrer.
+You just have to choose the game you want to start.
 
-## Comment jouer ?
+## How to play ?
 
-Lisez les règles du jeu que vous avez choisi dans le fichier `README.md` de votre répertoire de jeu.
+Read the rules of the game you have chosen in the `README.md` file in your game directory.
 
-Effectuez les différentes actions que vous souhaitez dans le fichier `main.js`, puis envoyer votre code à l'aide du bouton situé sur le panel de jeu.
+Perform the different actions you want in the `main.js` file, then send your code using the button on the game panel.
 
-Une fois que le code est envoyé, le résultat de votre code est affiché dans le panel de jeu. 
+Once the code is sent, the result of your code is displayed in the game panel. 
 
 ## TIPS
 
-Vous devez absolument avoir un fichier `main.js` à la racine de votre répertoire pour que votre code soit exécuté après l'envoi.
+You must have a `main.js` file in the root of your directory for your code to be executed after uploading.
 
-Vous pouvez accéder directement à votre jeu via le lien `/{ID-Github}/PolyConquest_{jeu}`
-
-
-
-
-
-
-
+You can access your game directly via the link `/{ID-Github}/PolyConquest_{game}`
